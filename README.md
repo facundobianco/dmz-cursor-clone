@@ -12,4 +12,4 @@ white and black).
 
 ### The autor
 
-Vanilla-DMZ cursors was designed by [Jakub Steiner](http://jimmac.musichall.cz).
+Vanilla-DMZ cursors were designed by [Jakub Steiner](http://jimmac.musichall.cz).
