@@ -13,3 +13,7 @@ white and black).
 ### The autor
 
 Vanilla-DMZ cursors were designed by [Jakub Steiner](http://jimmac.musichall.cz).
+
+### For porting this repo
+
+Download only the icon theme from the branch [cursors](https://github.com/vando/dmz-cursor-clone/tree/cursors).
