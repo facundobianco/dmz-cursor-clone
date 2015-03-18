@@ -7,9 +7,14 @@ at gitorious.org. As it is publicly known, gitorious.org was acquired
 by GitLab and gitorious.org [will shut down at the end of May 2015](https://about.gitlab.com/2015/03/03/gitlab-acquires-gitorious/).
 
 I don't know what openSUSE will do about his art repo, so I cloned the
-subdirectory *cursors* that has Vainilla-DMZ cursors (both version,
+subdirectory *cursors* that has Vanilla-DMZ cursors (both version,
 white and black).
 
 ### The autor
 
 Vanilla-DMZ cursors were designed by [Jakub Steiner](http://jimmac.musichall.cz).
+
+### This branch
+
+I made this branch, (cursors)[https://github.com/vando/dmz-cursor-clone/tree/cursors],
+for ports usage in your favorite *nix.
