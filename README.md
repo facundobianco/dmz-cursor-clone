@@ -16,5 +16,5 @@ Vanilla-DMZ cursors were designed by [Jakub Steiner](http://jimmac.musichall.cz)
 
 ### This branch
 
-I made this branch, [cursors](https://github.com/vando/dmz-cursor-clone/tree/cursors),
+I made the branch [cursors](https://github.com/vando/dmz-cursor-clone/tree/cursors)
 for ports usage in your favorite *nix.
